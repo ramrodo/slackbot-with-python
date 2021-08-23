@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "zappa",
+        "project_name": "slackbot",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-slackbot-api"
+    }
+}
